@@ -1,0 +1,5 @@
+copy the config.ini from /home/root/.cyberghost/config.ini /home/<user>/.cyberghost/
+Add setcap to openvpn to run as non root user with : 
+setcap CAP_NET_ADMIN=ep /usr/sbin/openvpn
+
+
