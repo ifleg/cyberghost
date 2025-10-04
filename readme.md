@@ -16,3 +16,6 @@ To use is you need to :
 Just run : python3 cyberghost_gui.py
 Select a country, then a town, then a server and connect.
 To close the connection just click stop
+
+### Credits ###
+I was initially inspired by https://github.com/zbabac/cyberghost-ubuntu-fix 
