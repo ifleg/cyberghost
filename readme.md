@@ -21,6 +21,6 @@ To close the connection just click stop
 I was initially inspired by https://github.com/zbabac/cyberghost-ubuntu-fix 
 
 ### Screenshots ###
-![Screenshot 1](https://raw.githubusercontent.com/ifleg/cyberghost/refs/heads/main/screenshots/screenshot1.png "Screeshot 1")
+![Screenshot 1](https://raw.githubusercontent.com/ifleg/cyberghost/refs/heads/main/screenshots/screenshot2.png "Screeshot 1")
 ![Screenshot 2](https://raw.githubusercontent.com/ifleg/cyberghost/refs/heads/main/screenshots/screenshot1.png "Screeshot 2")
 
