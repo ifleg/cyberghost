@@ -195,9 +195,9 @@ class CyberGhostApp(tk.Tk):
             "--remote-cert-tls", "server",
             "--route-delay", "5",
             "--verb", "4",
-            "--ca", os.path.expanduser("~/.cyberghost/ca.crt"),
-            "--cert", os.path.expanduser("~/.cyberghost/client.crt"),
-            "--key", os.path.expanduser("~/.cyberghost/client.key"),
+            "--ca", os.path.expanduser("/usr/local/cyberghost/certs/openvpn/ca.crt"),
+            "--cert", os.path.expanduser("/usr/local/cyberghost/certs/openvpn/client.crt"),
+            "--key", os.path.expanduser("/usr/local/cyberghost/certs/openvpn/client.key"),
         ]
 
     def update_command_preview(self, event=None):
